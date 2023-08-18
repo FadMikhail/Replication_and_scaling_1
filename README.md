@@ -17,3 +17,9 @@
 Выполните конфигурацию master-slave репликации, примером можно пользоваться из лекции.
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
+
+![image](https://github.com/FadMikhail/Replication_and_scaling_1/assets/132131230/3b2d22d6-b895-4506-a0c4-2d792a05b00d)
+
+![image](https://github.com/FadMikhail/Replication_and_scaling_1/assets/132131230/f25caf75-2145-4313-929f-071353280f4a)
+
+

@@ -22,4 +22,7 @@
 
 ![image](https://github.com/FadMikhail/Replication_and_scaling_1/assets/132131230/f25caf75-2145-4313-929f-071353280f4a)
 
+![image](https://github.com/FadMikhail/Replication_and_scaling_1/assets/132131230/b119b963-60bc-479c-8b5c-f2d6e6cc3ae6)
+
+
 
